@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&display=swap');
+
+
+body{
+
+    font-family: 'Handjet';
+    font-weight:400;
+    font-size: 22px;
+}
+
+h2, h4{
+    color:blueviolet;
+    text-decoration: line-through;
+    font-family: 'Verdana';
+    border: 2px solid #000;
+   
+}
+
+h1 {
+
+    color: red ;
+}
+
+.rosa-choque{
+
+    font-family: 'Handjet';
+    color: rgb(230, 52, 221);
+    font-size: 40 px;
+
+}
